@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/spa-blog-itarverne/static/css/main.860012f8.chunk.css",
+    "main.js": "/spa-blog-itarverne/static/js/main.862db884.chunk.js",
+    "main.js.map": "/spa-blog-itarverne/static/js/main.862db884.chunk.js.map",
+    "runtime-main.js": "/spa-blog-itarverne/static/js/runtime-main.a0e4fcfb.js",
+    "runtime-main.js.map": "/spa-blog-itarverne/static/js/runtime-main.a0e4fcfb.js.map",
+    "static/js/2.79d2b663.chunk.js": "/spa-blog-itarverne/static/js/2.79d2b663.chunk.js",
+    "static/js/2.79d2b663.chunk.js.map": "/spa-blog-itarverne/static/js/2.79d2b663.chunk.js.map",
+    "index.html": "/spa-blog-itarverne/index.html",
+    "static/css/main.860012f8.chunk.css.map": "/spa-blog-itarverne/static/css/main.860012f8.chunk.css.map",
+    "static/js/2.79d2b663.chunk.js.LICENSE.txt": "/spa-blog-itarverne/static/js/2.79d2b663.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0e4fcfb.js",
+    "static/js/2.79d2b663.chunk.js",
+    "static/css/main.860012f8.chunk.css",
+    "static/js/main.862db884.chunk.js"
+  ]
+}
