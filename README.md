@@ -33,12 +33,12 @@ ressources suivies:
 
 outils et plugin utlisés:
 
-create-react-app
-webpak
-react-router-dom
-i18next
-react-i18next
-i18next-browser-languagedetector 
+* create-react-app
+* webpak
+* react-router-dom
+* i18next
+* react-i18next
+* i18next-browser-languagedetector 
 
 ## remarques sur le projet
 **ce que je pense avoir réussi, les décisions prises**
