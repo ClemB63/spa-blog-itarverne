@@ -13,6 +13,8 @@ pour accéder à l'application, merci de suivre la page Github Pages ci dessous 
 
 https://clemb63.github.io/spa-blog-itarverne/
 
+Vous trouverez deux boutons pour changer la langue de l'application, et une barre de navigation pour aller d'une page à l'autre. 
+
 ## Ce que permet l'application
 
 La navigation entre trois pages : Accueil, Articles et Catégorie
