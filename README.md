@@ -25,20 +25,20 @@ En toute transparence, étant grande débutante, j'ai fais beaucoup de recherche
 
 ressources suivies:
 
-https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm
-https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
-https://react.i18next.com/latest/using-with-hooks
-https://github.com/facebook/create-react-app
-https://git-scm.com/book/en/v2/Git-Basics-Tagging
+> https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm
+> https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+> https://react.i18next.com/latest/using-with-hooks
+> https://github.com/facebook/create-react-app
+> https://git-scm.com/book/en/v2/Git-Basics-Tagging
 
 outils et plugin utlisés:
 
-create-react-app
-webpak
-react-router-dom
-i18next
-react-i18next
-i18next-browser-languagedetector 
+> create-react-app
+> webpak
+> react-router-dom
+> i18next
+> react-i18next
+> i18next-browser-languagedetector 
 
 ## remarques sur le projet
 ###ce que je pense avoir réussi, les décisions prises
