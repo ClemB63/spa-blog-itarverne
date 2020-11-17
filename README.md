@@ -53,6 +53,8 @@ Vu le peu de texte, j'ai choisi de ne pas séparer mes traductions.
 
 Le CSS est resté basique pour bien montrer les fonctionnalités. 
 
+J'ai utilisé la POO pour chacune des pages, en utilisant les classes et l'héritage.
+
 J'aurais aimé pouvoir implémenter la gestion de "state" des boutons de langue pour leur appliquer un style particulier quand actifs, mais ai déterminé que j'avais besoin de plus de tests (et donc de temps) pour bien comprendre cette démarche sans casser le code.
 
 Maintenant que j'ai compris le principe des tags et releases de Git (c'était la première fois!), je pense continuer à travailler sur ce projet pour m'en faire un blog personnel une fois que vous l'aurez visé. Je suis preneuse de tous conseils à ce sujet de votre part!
