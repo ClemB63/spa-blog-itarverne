@@ -53,7 +53,7 @@ Je n'ai pas choisi d'implémenter Redux pour cette même raison, j'ai eu quelque
 
 Vu le peu de texte, j'ai choisi de ne pas séparer mes traductions. 
 
-Le CSS est resté basique pour bien montrer les fonctionnalités. L'application est responsive et testée sur Mozilla, Chrome et Chromium sur desktop, et sur Chrome sur mobile Android.
+Le CSS est resté basique pour bien montrer les fonctionnalités. L'application est adaptée au mobile. Elle a été testée sur Mozilla, Chrome et Chromium sur desktop, et sur Chrome sur mobile Android.
 
 J'ai utilisé la POO pour chacune des pages, en utilisant les classes et l'héritage.
 
