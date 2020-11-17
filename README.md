@@ -32,7 +32,7 @@ ressources suivies:
 * https://git-scm.com/book/en/v2/Git-Basics-Tagging
 
 outils et plugin utlisés:
-
+* React 17.01
 * create-react-app
 * webpak
 * react-router-dom
